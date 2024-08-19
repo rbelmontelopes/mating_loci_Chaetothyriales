@@ -1,0 +1,106 @@
+####################################################Supplementary materials - mating loci HMM profiles ##############################################################
+################################################ A new family of ant-associated fungi in Chaetothyriales ############################################################
+######################################################### Wang,Belmonte-Lopes, Pan et al. 2024 ######################################################################
+################################################################## Studies in Mycology ##############################################################################
+
+
+
+
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_016626143.1       -          APN2                 -                  0 1233.9   3.9         0 1233.8   3.9   1.0   1   0   0   1   1   1   1 uncharacterized protein Z520_12291 [Fonsecaea multimorphosa CBS 102226]
+XP_013272289.1       -          APN2                 -                  0 1219.4   6.6         0 1219.3   6.6   1.0   1   0   0   1   1   1   1 exodeoxyribonuclease III [Rhinocladiella mackenziei CBS 650.93]
+XP_016245652.1       -          APN2                 -                  0 1217.0   2.4         0 1216.9   2.4   1.0   1   0   0   1   1   1   1 exodeoxyribonuclease III [Cladophialophora immunda]
+XP_016619751.1       -          APN2                 -                  0 1217.0   3.2         0 1216.8   3.2   1.0   1   0   0   1   1   1   1 exodeoxyribonuclease III [Cladophialophora bantiana CBS 173.52]
+XP_013280513.1       -          APN2                 -                  0 1208.3   2.3         0 1208.1   2.3   1.0   1   0   0   1   1   1   1 exodeoxyribonuclease III [Fonsecaea pedrosoi CBS 271.37]
+KIW70531.1           -          APN2                 -                  0 1207.0   0.2         0 1206.9   0.2   1.0   1   0   0   1   1   1   1 exodeoxyribonuclease III [Phialophora macrospora]
+KIV97491.1           -          APN2                 -                  0 1205.2   3.0         0 1205.0   3.0   1.0   1   0   0   1   1   1   1 exodeoxyribonuclease III [Exophiala mesophila]
+XP_016229065.1       -          APN2                 -                  0 1205.2   3.0         0 1205.0   3.0   1.0   1   0   0   1   1   1   1 exodeoxyribonuclease III [Exophiala mesophila]
+KIV83115.1           -          APN2                 -                  0 1204.5   2.2         0 1204.4   2.2   1.0   1   0   0   1   1   1   1 exodeoxyribonuclease III, variant [Exophiala sideris]
+XP_013319433.1       -          APN2                 -                  0 1198.1   3.2         0 1197.9   3.2   1.0   1   0   0   1   1   1   1 exodeoxyribonuclease III [Exophiala xenobiotica]
+XP_009161381.1       -          APN2                 -                  0 1188.4   5.7         0 1188.2   5.7   1.0   1   0   0   1   1   1   1 AP endonuclease 2 [Exophiala dermatitidis NIH/UT8656]
+XP_007734404.1       -          APN2                 -                  0 1188.2  10.0         0 1187.9  10.0   1.1   1   0   0   1   1   1   1 AP endonuclease 2 [Capronia epimyces CBS 606.96]
+XP_007727026.1       -          APN2                 -                  0 1188.0   3.4         0 1187.9   3.4   1.0   1   0   0   1   1   1   1 AP endonuclease 2 [Capronia coronata CBS 617.96]
+XP_018003209.1       -          APN2                 -                  0 1124.0  24.2         0 1118.6  24.2   2.0   1   1   0   1   1   1   1 DNA-(apurinic or apyrimidinic site) lyase 2 [Phialophora attinorum]
+ETN43365.1           -          APN2                 -                  0 1123.6  16.2         0 1121.8  16.2   1.7   1   1   0   1   1   1   1 hypothetical protein HMPREF1541_02524 [Cyphellophora europaea CBS 101466]
+XP_008724518.1       -          APN2                 -                  0 1057.6   0.1         0 1057.4   0.1   1.0   1   0   0   1   1   1   1 exodeoxyribonuclease III [Cladophialophora carrionii CBS 160.54]
+XP_007761813.1       -          APN2                 -                  0 1055.6   1.7         0 1055.4   1.7   1.1   1   0   0   1   1   1   1 uncharacterized protein A1O7_09636 [Cladophialophora yegresii CBS 114405]
+OCT48538.1           -          APN2                 -                  0 1053.3   0.1         0 1053.2   0.1   1.0   1   0   0   1   1   1   1 DNA-(apurinic or apyrimidinic site) lyase 2 [Cladophialophora carrionii]
+XP_007782976.1       -          APN2                 -                  0 1013.7   0.0         0 1013.4   0.0   1.0   1   0   0   1   1   1   1 uncharacterized protein W97_06802 [Coniosporium apollinis CBS 100218]
+XP_016234497.1       -          APN2                 -           8.1e-306 1009.1  88.1    2e-226  746.5  80.8   2.1   1   1   1   2   2   2   2 exodeoxyribonuclease III [Exophiala spinifera]
+XP_007727023.1       -          MAT-1-1              -           9.1e-154  504.5   0.1  1.1e-153  504.2   0.1   1.1   1   0   0   1   1   1   1 uncharacterized protein A1O1_07969 [Capronia coronata CBS 617.96]
+KIV83119.1           -          MAT-1-1              -           1.4e-152  500.6   0.1  1.6e-152  500.5   0.1   1.0   1   0   0   1   1   1   1 hypothetical protein PV11_05172 [Exophiala sideris]
+XP_013319410.1       -          MAT-1-1              -           2.2e-150  493.4   0.0  2.5e-150  493.2   0.0   1.0   1   0   0   1   1   1   1 uncharacterized protein PV05_03322 [Exophiala xenobiotica]
+XP_007734402.1       -          MAT-1-1              -           1.4e-147  484.2   0.1  1.5e-147  484.0   0.1   1.0   1   0   0   1   1   1   1 uncharacterized protein A1O3_06092 [Capronia epimyces CBS 606.96]
+XP_013280720.1       -          MAT-1-1              -           6.5e-140  458.9   0.0  1.8e-138  454.2   0.0   2.0   1   1   0   1   1   1   1 uncharacterized protein Z517_09356 [Fonsecaea pedrosoi CBS 271.37]
+XP_016613874.1       -          MAT-1-1              -           6.8e-138  452.3   0.0    1e-136  448.4   0.0   1.9   1   1   0   1   1   1   1 uncharacterized protein Z519_12107 [Cladophialophora bantiana CBS 173.52]
+XP_016229063.1       -          MAT-1-1              -           1.8e-129  424.6   0.1    2e-129  424.4   0.1   1.0   1   0   0   1   1   1   1 uncharacterized protein PV10_01239 [Exophiala mesophila]
+ETN43367.1           -          MAT-1-1              -             2e-121  398.1   3.7  2.4e-121  397.9   3.7   1.0   1   0   0   1   1   1   1 hypothetical protein HMPREF1541_02526 [Cyphellophora europaea CBS 101466]
+XP_007782974.1       -          MAT-1-1              -           4.8e-114  373.8   2.3  5.4e-114  373.7   2.3   1.0   1   0   0   1   1   1   1 uncharacterized protein W97_06800 [Coniosporium apollinis CBS 100218]
+XP_013272288.1       -          MAT-1-1              -           1.6e-104  342.5   0.3  1.8e-104  342.3   0.3   1.0   1   0   0   1   1   1   1 uncharacterized protein Z518_06024 [Rhinocladiella mackenziei CBS 650.93]
+ETN43366.1           -          MAT-1-1              -            1.1e-66  218.0   0.2   2.7e-58  190.4   0.0   2.7   1   1   2   3   3   3   2 hypothetical protein HMPREF1541_02525 [Cyphellophora europaea CBS 101466]
+XP_007761805.1       -          MAT-1-1              -            1.7e-34  112.1   0.2   2.4e-34  111.6   0.2   1.2   1   0   0   1   1   1   1 uncharacterized protein A1O7_09628 [Cladophialophora yegresii CBS 114405]
+XP_016234476.1       -          MAT-1-1              -            9.8e-34  109.6   1.9   1.2e-33  109.4   1.9   1.1   1   0   0   1   1   1   1 uncharacterized protein PV08_07042 [Exophiala spinifera]
+XP_016229064.1       -          MAT-1-1              -            4.5e-11   35.1   0.0   7.3e-11   34.4   0.0   1.3   1   1   0   1   1   1   1 uncharacterized protein PV10_01240 [Exophiala mesophila]
+OCT48545.1           -          MAT-1-1              -              1e-08   27.3   2.1     1e-08   27.3   0.7   1.8   2   0   0   2   2   2   1 hypothetical protein CLCR_04128 [Cladophialophora carrionii]
+XP_008724511.1       -          MAT-1-1              -            1.1e-08   27.2   1.3   1.1e-08   27.2   1.3   1.7   2   0   0   2   2   2   1 uncharacterized protein G647_10298 [Cladophialophora carrionii CBS 160.54]
+KIV83118.1           -          MAT-1-1              -            3.3e-08   25.7   0.0   4.1e-08   25.3   0.0   1.1   1   0   0   1   1   1   1 hypothetical protein PV11_05171 [Exophiala sideris]
+XP_007761806.1       -          MAT-1-1              -            3.4e-08   25.6   0.3   3.4e-08   25.6   0.3   1.6   2   0   0   2   2   2   1 uncharacterized protein A1O7_09629 [Cladophialophora yegresii CBS 114405]
+XP_013280721.1       -          MAT-1-1              -            1.1e-07   23.9   0.0   2.3e-07   22.9   0.0   1.5   2   0   0   2   2   2   1 uncharacterized protein Z517_09357 [Fonsecaea pedrosoi CBS 271.37]
+XP_007727024.1       -          MAT-1-1              -            2.3e-06   19.5   0.0   2.7e-06   19.3   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein A1O1_07970 [Capronia coronata CBS 617.96]
+XP_007734403.1       -          MAT-1-1              -            0.00022   13.1   0.0   0.00025   12.9   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein A1O3_06093 [Capronia epimyces CBS 606.96]
+KIV83118.1           -          MAT-1-1-4            -           2.1e-161  528.3   0.3  2.6e-161  528.0   0.3   1.0   1   0   0   1   1   1   1 hypothetical protein PV11_05171 [Exophiala sideris]
+XP_007734403.1       -          MAT-1-1-4            -           2.7e-156  511.5   0.0  3.2e-156  511.2   0.0   1.0   1   0   0   1   1   1   1 uncharacterized protein A1O3_06093 [Capronia epimyces CBS 606.96]
+XP_013280721.1       -          MAT-1-1-4            -           6.6e-156  510.2   0.0  7.4e-156  510.1   0.0   1.0   1   0   0   1   1   1   1 uncharacterized protein Z517_09357 [Fonsecaea pedrosoi CBS 271.37]
+XP_016229064.1       -          MAT-1-1-4            -           1.1e-152  499.6   0.1  1.2e-152  499.5   0.1   1.0   1   0   0   1   1   1   1 uncharacterized protein PV10_01240 [Exophiala mesophila]
+XP_013319411.1       -          MAT-1-1-4            -           1.3e-152  499.4   0.1  1.4e-152  499.3   0.1   1.0   1   0   0   1   1   1   1 uncharacterized protein PV05_03323 [Exophiala xenobiotica]
+XP_016613875.1       -          MAT-1-1-4            -           2.5e-141  462.3   1.3  2.8e-141  462.1   1.3   1.0   1   0   0   1   1   1   1 uncharacterized protein Z519_12108 [Cladophialophora bantiana CBS 173.52]
+XP_007727024.1       -          MAT-1-1-4            -            1.3e-93  305.5   0.1   1.5e-93  305.3   0.1   1.0   1   0   0   1   1   1   1 uncharacterized protein A1O1_07970 [Capronia coronata CBS 617.96]
+ETN43366.1           -          MAT-1-1-4            -            9.8e-86  279.6   0.1   1.1e-85  279.4   0.1   1.0   1   0   0   1   1   1   1 hypothetical protein HMPREF1541_02525 [Cyphellophora europaea CBS 101466]
+XP_016234476.1       -          MAT-1-1-4            -              7e-29   92.8   0.2   6.9e-27   86.3   0.0   2.3   1   1   2   3   3   3   2 uncharacterized protein PV08_07042 [Exophiala spinifera]
+XP_008724511.1       -          MAT-1-2              -           1.3e-199  656.2  12.6  1.5e-199  656.0  12.6   1.0   1   0   0   1   1   1   1 uncharacterized protein G647_10298 [Cladophialophora carrionii CBS 160.54]
+OCT48545.1           -          MAT-1-2              -           5.1e-197  647.7  12.0  5.7e-197  647.5  12.0   1.0   1   0   0   1   1   1   1 hypothetical protein CLCR_04128 [Cladophialophora carrionii]
+XP_007761806.1       -          MAT-1-2              -           4.5e-194  638.0   8.9    5e-194  637.8   8.9   1.0   1   0   0   1   1   1   1 uncharacterized protein A1O7_09629 [Cladophialophora yegresii CBS 114405]
+XP_007734399.1       -          MAT-1-2              -           6.7e-184  604.4   0.1  7.5e-184  604.3   0.1   1.0   1   0   0   1   1   1   1 uncharacterized protein A1O3_06089 [Capronia epimyces CBS 606.96]
+XP_016626710.1       -          MAT-1-2              -           1.5e-181  596.7   4.1  1.7e-181  596.5   4.1   1.0   1   0   0   1   1   1   1 uncharacterized protein Z520_11763 [Fonsecaea multimorphosa CBS 102226]
+XP_007727025.1       -          MAT-1-2              -           9.3e-180  590.8   2.2    1e-179  590.6   2.2   1.0   1   0   0   1   1   1   1 uncharacterized protein A1O1_07971 [Capronia coronata CBS 617.96]
+XP_007751801.1       -          MAT-1-2              -           1.1e-179  590.5   2.7  1.3e-179  590.3   2.7   1.0   1   0   0   1   1   1   1 uncharacterized protein A1O5_13042 [Cladophialophora psammophila CBS 110553]
+XP_016259943.1       -          MAT-1-2              -           1.2e-167  550.9   4.6  1.5e-167  550.6   4.6   1.0   1   0   0   1   1   1   1 uncharacterized protein PV06_08316 [Exophiala oligosperma]
+XP_016234477.1       -          MAT-1-2              -           2.6e-161  530.0   5.3    3e-161  529.8   5.3   1.0   1   0   0   1   1   1   1 uncharacterized protein PV08_07043 [Exophiala spinifera]
+XP_009161380.1       -          MAT-1-2              -             4e-145  476.7   0.3  4.8e-145  476.4   0.3   1.0   1   0   0   1   1   1   1 uncharacterized protein HMPREF1120_08862 [Exophiala dermatitidis NIH/UT8656]
+XP_018003213.1       -          MAT-1-2              -           1.7e-122  402.1  15.7  1.4e-102  336.5   7.6   2.9   1   1   1   2   2   2   2 Mating-type protein a-1 [Phialophora attinorum]
+KIW63495.1           -          MAT-1-2              -              3e-37  121.3   0.9   3.7e-37  121.0   0.9   1.1   1   0   0   1   1   1   1 hypothetical protein PV04_10329 [Phialophora macrospora]
+XP_013319411.1       -          MAT-1-2              -            1.8e-14   46.2   0.8   2.5e-14   45.7   0.8   1.2   1   0   0   1   1   1   1 uncharacterized protein PV05_03323 [Exophiala xenobiotica]
+XP_007782974.1       -          MAT-1-2              -            5.8e-05   14.9   1.6   8.8e-05   14.3   0.2   1.8   2   0   0   2   2   2   1 uncharacterized protein W97_06800 [Coniosporium apollinis CBS 100218]
+XP_013319410.1       -          MAT-1-2              -            0.00012   13.9   0.6   0.00017   13.3   0.0   1.5   2   0   0   2   2   2   1 uncharacterized protein PV05_03322 [Exophiala xenobiotica]
+KIV83119.1           -          MAT-1-2              -            0.00015   13.5   0.1   0.00026   12.7   0.1   1.3   1   0   0   1   1   1   1 hypothetical protein PV11_05172 [Exophiala sideris]
+ETN43367.1           -          MAT-1-2              -            0.00017   13.3   2.2   0.00025   12.8   2.2   1.2   1   0   0   1   1   1   1 hypothetical protein HMPREF1541_02526 [Cyphellophora europaea CBS 101466]
+XP_016245873.1       -          SLA2                 -                  0 2375.5  45.8         0 2375.4  45.8   1.0   1   0   0   1   1   1   1 uncharacterized protein PV07_08819 [Cladophialophora immunda]
+XP_016626174.1       -          SLA2                 -                  0 2368.6  44.2         0 2368.4  44.2   1.0   1   0   0   1   1   1   1 uncharacterized protein Z520_12267 [Fonsecaea multimorphosa CBS 102226]
+XP_016613882.1       -          SLA2                 -                  0 2368.2  45.3         0 2368.0  45.3   1.0   1   0   0   1   1   1   1 uncharacterized protein Z519_12116 [Cladophialophora bantiana CBS 173.52]
+XP_007751810.1       -          SLA2                 -                  0 2364.8  45.9         0 2364.6  45.9   1.0   1   0   0   1   1   1   1 uncharacterized protein A1O5_13052 [Cladophialophora psammophila CBS 110553]
+XP_008724502.1       -          SLA2                 -                  0 2361.2  45.5         0 2361.0  45.5   1.0   1   0   0   1   1   1   1 uncharacterized protein G647_10289 [Cladophialophora carrionii CBS 160.54]
+XP_013272287.1       -          SLA2                 -                  0 2361.1  44.5         0 2360.9  44.5   1.0   1   0   0   1   1   1   1 uncharacterized protein Z518_06023 [Rhinocladiella mackenziei CBS 650.93]
+XP_007761802.1       -          SLA2                 -                  0 2360.5  46.1         0 2360.3  46.1   1.0   1   0   0   1   1   1   1 uncharacterized protein A1O7_09625 [Cladophialophora yegresii CBS 114405]
+OCT48559.1           -          SLA2                 -                  0 2358.0  43.7         0 2357.9  43.7   1.0   1   0   0   1   1   1   1 Endocytosis protein end4 [Cladophialophora carrionii]
+XP_016234448.1       -          SLA2                 -                  0 2354.2  41.9         0 2353.9  41.9   1.0   1   0   0   1   1   1   1 uncharacterized protein PV08_07014 [Exophiala spinifera]
+XP_013319409.1       -          SLA2                 -                  0 2353.9  39.0         0 2353.7  39.0   1.0   1   0   0   1   1   1   1 uncharacterized protein PV05_03321 [Exophiala xenobiotica]
+KIW63468.1           -          SLA2                 -                  0 2351.3  46.5         0 2351.1  46.5   1.0   1   0   0   1   1   1   1 hypothetical protein PV04_10304 [Phialophora macrospora]
+KIV83120.1           -          SLA2                 -                  0 2350.9  40.4         0 2350.8  40.4   1.0   1   0   0   1   1   1   1 hypothetical protein PV11_05173 [Exophiala sideris]
+XP_009161377.1       -          SLA2                 -                  0 2346.9  45.8         0 2346.8  45.8   1.0   1   0   0   1   1   1   1 huntingtin interacting protein 1 [Exophiala dermatitidis NIH/UT8656]
+ETN43368.1           -          SLA2                 -                  0 2335.9  41.4         0 2335.8  41.4   1.0   1   0   0   1   1   1   1 hypothetical protein HMPREF1541_02527 [Cyphellophora europaea CBS 101466]
+XP_007727018.1       -          SLA2                 -                  0 2331.5  42.6         0 2331.2  42.6   1.0   1   0   0   1   1   1   1 uncharacterized protein A1O1_07962 [Capronia coronata CBS 617.96]
+XP_018003268.1       -          SLA2                 -                  0 2318.5  43.7         0 2318.3  43.7   1.0   1   0   0   1   1   1   1 Endocytosis protein end4 [Phialophora attinorum]
+XP_013280735.1       -          SLA2                 -                  0 2228.7  47.3         0 2228.5  47.3   1.0   1   0   0   1   1   1   1 uncharacterized protein Z517_09371 [Fonsecaea pedrosoi CBS 271.37]
+XP_007781593.1       -          SLA2                 -                  0 2108.7  48.9         0 2108.5  48.9   1.0   1   0   0   1   1   1   1 uncharacterized protein W97_05669 [Coniosporium apollinis CBS 100218]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/hd/Mating_loci/n/Teixeira_et_al_2017_corrected_MAT_profile_v0.1.hmm
+# Target file:     genes_teixeira_et_al2017.fasta
+# Option settings: hmmsearch --tblout test_teixeira_sequences_HMM.txt /mnt/hd/Mating_loci/n/Teixeira_et_al_2017_corrected_MAT_profile_v0.1.hmm genes_teixeira_et_al2017.fasta 
+# Current dir:     /mnt/hd/Mating_loci/n
+# Date:            Fri Aug  2 14:43:00 2024
+# [ok]
