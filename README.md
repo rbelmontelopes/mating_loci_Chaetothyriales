@@ -8,7 +8,7 @@ strategy (the *.fas files). The resulting alignments were used to build HMM prof
 single one, and it were able to correctly identified the genes of Teixeira et al. (2017) that obtained a full sequence scores higher than 100 (see the file "Results_Teixeira_et_al_2017_sequences_HMM_mating_loci_profile.txt").
 
 
-################################################################## HOW TO USE THE PROFILE ############################################################################
+################################# HOW TO USE THE PROFILE #######################################
 
 For using this profile (the file "Teixeira_et_al_2017_corrected_MAT_profile_v0.1.hmm"), first you will need a working version of HMMER 3 (it can be downloaded at 
 http://hmmer.org/). After installing HMMER you can run the profile search with the command below (run with everything in the same folder you are in the terminal (or 
@@ -20,9 +20,9 @@ The below are how the results should. In "target name" is the sequences titles a
 thumb, a a full sequence score over 100 should be a true match, and all Domatiaceae genes identified with a full sequence score above 100 were confirmed by its 
 annotation using IPRScan.
 
-#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
-# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
-#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
 D134920_001188-T1    -          APN2                 -                  0 1039.5   7.5         0 1039.2   7.5   1.0   1   0   0   1   1   1   1 D134920_001188
 D134920_006248-T1    -          APN2                 -              0.059   10.7  20.8     0.072   10.4  20.8   1.2   1   0   0   1   1   1   0 D134920_006248
 D134920_005396-T1    -          APN2                 -               0.14    9.4   4.5      0.17    9.2   4.5   1.0   1   0   0   1   1   1   0 D134920_005396
@@ -46,18 +46,18 @@ D134920_002522-T1    -          SLA2                 -                6.2    3.0
 D134920_004968-T1    -          SLA2                 -                6.4    2.9  11.8       9.1    2.4  11.8   1.1   1   0   0   1   1   1   0 D134920_004968
 D134920_002536-T1    -          SLA2                 -                7.8    2.7  25.0        10    2.3  25.0   1.1   1   0   0   1   1   1   0 D134920_002536
 D134920_004182-T1    -          SLA2                 -                8.8    2.5  15.0        11    2.2  15.0   1.1   1   0   0   1   1   1   0 D134920_004182
-#
-# Program:         hmmsearch
-# Version:         3.3.2 (Nov 2020)
-# Pipeline mode:   SEARCH
-# Query file:      /mnt/hd/Mating_loci/n/Teixeira_et_al_2017_corrected_MAT_profile_v0.1.hmm
-# Target file:     /media/ricardo/crucialx9/orthofinder_domatia_jul24/prot/Domatiomyces_catenatus_CBS134920.proteins.fa
-# Option settings: hmmsearch --tblout /mnt/hd/black_yeasts/domatia/jul24/mating_loci//{Domatiomyces_catenatus_CBS134920.proteins.fa}_HMM.txt /mnt/hd/Mating_loci/n/Teixeira_et_al_2017_corrected_MAT_profile_v0.1.hmm /media/ricardo/crucialx9/orthofinder_domatia_jul24/prot/Domatiomyces_catenatus_CBS134920.proteins.fa 
-# Current dir:     /media/ricardo/crucialx9/orthofinder_domatia_jul24/prot
-# Date:            Mon Jul 29 11:48:55 2024
-# [ok]
 
-############################################################## REFERENCES ###########################################################################################
+ Program:         hmmsearch
+ Version:         3.3.2 (Nov 2020)
+ Pipeline mode:   SEARCH
+ Query file:      /mnt/hd/Mating_loci/n/Teixeira_et_al_2017_corrected_MAT_profile_v0.1.hmm
+ Target file:     /media/ricardo/crucialx9/orthofinder_domatia_jul24/prot/Domatiomyces_catenatus_CBS134920.proteins.fa
+ Option settings: hmmsearch --tblout /mnt/hd/black_yeasts/domatia/jul24/mating_loci//{Domatiomyces_catenatus_CBS134920.proteins.fa}_HMM.txt /mnt/hd/Mating_loci/n/Teixeira_et_al_2017_corrected_MAT_profile_v0.1.hmm /media/ricardo/crucialx9/orthofinder_domatia_jul24/prot/Domatiomyces_catenatus_CBS134920.proteins.fa 
+ Current dir:     /media/ricardo/crucialx9/orthofinder_domatia_jul24/prot
+ Date:            Mon Jul 29 11:48:55 2024
+ [ok]
+
+########################### REFERENCES #############################
 
 Teixeira et al. 2017 doi: 10.1016/j.simyco.2017.01.001
 Katoh and Standley 2013 doi: 10.1093/molbev/mst010
