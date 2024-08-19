@@ -24,6 +24,9 @@ annotation using IPRScan.
 ########################### REFERENCES #############################
 
 Teixeira et al. 2017 doi: 10.1016/j.simyco.2017.01.001
+
 Katoh and Standley 2013 doi: 10.1093/molbev/mst010
+
 Paysan-Lafosse et al. 2022 10.1093/nar/gkac99
+
 Eddy 2011 doi: 10.1371/journal.pcbi.1002195
