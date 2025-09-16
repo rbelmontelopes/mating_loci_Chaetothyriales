@@ -14,7 +14,7 @@ For using this profile (the file "Teixeira_et_al_2017_corrected_MAT_profile_v0.1
 http://hmmer.org/). After installing HMMER you can run the profile search with the command below (run with everything in the same folder you are in the terminal (or 
 add the paths to the files). As input you will need a fasta file with the protein sequences to be compared with the profile.
 
-hmmsearch --tblout  NAME_YOUR_RESULTS.txt Teixeira_et_al_2017_corrected_MAT_profile_v0.1.hmm YOUR_PROTEINS.fasta 
+```hmmsearch --tblout  NAME_YOUR_RESULTS.txt Teixeira_et_al_2017_corrected_MAT_profile_v0.1.hmm YOUR_PROTEINS.fasta```
 
 In "target name" is the sequences titles and "query name" indicates which gene profile has a match for the target. As rule of 
 thumb, a a full sequence score over 100 should be a true match, and all Domatiaceae genes identified with a full sequence score above 100 were confirmed by its 
